@@ -1,1 +1,2 @@
 Este script em python consegue fornecer legendas em português BR, utilizando a base de dados do OpenSubtitles para filmes e séries baixados no computador. É importante lembrar de deixar o arquivo na mesma pasta onde os filmes ou séries estão. O uso do script se dá da seguinte maneira: você pode pesquisar por hash, nome ou nome do arquivo. A legenda é baixada na pasta.
+Obs: algumas funções do script já não funcionam e precisam ser atualizadas.
